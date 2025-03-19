@@ -3,6 +3,7 @@
 # This file contains domains for dev library file.
 #########################################
 +.jitpack.io
+repo.gradle.org
 repo.maven.apache.org
 plugins-artifacts.gradle.org
 jcenter.bintray.com

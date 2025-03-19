@@ -5,4 +5,5 @@
 +.jitpack.io
 repo.maven.apache.org
 plugins-artifacts.gradle.org
+jcenter.bintray.com
 ################## EOF ##################

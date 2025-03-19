@@ -1,0 +1,8 @@
+#########################################
+# Dev Library's Ruleset
+# This file contains domains for dev library file.
+#########################################
++.jitpack.io
+repo.maven.apache.org
+plugins-artifacts.gradle.org
+################## EOF ##################

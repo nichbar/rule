@@ -6,4 +6,5 @@
 repo.maven.apache.org
 plugins-artifacts.gradle.org
 jcenter.bintray.com
+plugins.jetbrains.com
 ################## EOF ##################

@@ -1,0 +1,6 @@
+#########################################
+# Media Ruleset
+# This file contains domains for not so famous media site.
+#########################################
+hund.lucida.to
+################## EOF ##################

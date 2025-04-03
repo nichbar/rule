@@ -3,4 +3,5 @@
 # This file contains domains for not so famous media site.
 #########################################
 hund.lucida.to
+katze.lucida.to
 ################## EOF ##################

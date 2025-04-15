@@ -9,5 +9,6 @@ repo1.maven.org
 plugins-artifacts.gradle.org
 jcenter.bintray.com
 plugins.jetbrains.com
+vsassets.io
 downloads.marketplace.jetbrains.com
 ################## EOF ##################

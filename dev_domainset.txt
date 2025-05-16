@@ -11,4 +11,5 @@ jcenter.bintray.com
 plugins.jetbrains.com
 vsassets.io
 downloads.marketplace.jetbrains.com
+storage.googleapis.com
 ################## EOF ##################

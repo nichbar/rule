@@ -12,4 +12,5 @@ plugins.jetbrains.com
 vsassets.io
 downloads.marketplace.jetbrains.com
 storage.googleapis.com
+vsassets.io
 ################## EOF ##################

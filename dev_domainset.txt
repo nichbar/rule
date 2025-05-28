@@ -13,4 +13,5 @@ vsassets.io
 downloads.marketplace.jetbrains.com
 storage.googleapis.com
 vsassets.io
+gvt1.com
 ################## EOF ##################

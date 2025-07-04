@@ -1,0 +1,6 @@
+#########################################
+# Dev Library's Ruleset
+# This file contains domains for dev library file.
+#########################################
+api.business.githubcopilot.com
+################## EOF ##################

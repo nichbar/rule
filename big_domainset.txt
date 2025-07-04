@@ -1,6 +1,6 @@
 #########################################
-# Dev Library's Ruleset
-# This file contains domains for ai site.
+# Big Ruleset
+# This file contains domains for not so famous but still require to download massive data site.
 #########################################
-api.business.githubcopilot.com
+
 ################## EOF ##################

@@ -1,6 +1,7 @@
 #########################################
-# Dev Library's Ruleset
-# This file contains domains for ai site.
+# Extra Library's Ruleset
+# This file contains domains for unexpected but GFW verified site.
 #########################################
-api.business.githubcopilot.com
++.nodeseek.com
++.hk01.com
 ################## EOF ##################

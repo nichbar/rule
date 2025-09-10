@@ -3,4 +3,5 @@
 # This file contains domains for ai site.
 #########################################
 api.business.githubcopilot.com
+android.googleapis.com
 ################## EOF ##################

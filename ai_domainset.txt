@@ -4,4 +4,5 @@
 #########################################
 api.business.githubcopilot.com
 android.googleapis.com
+cerebras.ai
 ################## EOF ##################

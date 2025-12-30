@@ -4,6 +4,5 @@
 #########################################
 api.business.githubcopilot.com
 android.googleapis.com
-cloud.cerebras.ai
-DOMAIN-SUFFIX,cerebras.ai
+cerebras.ai
 ################## EOF ##################

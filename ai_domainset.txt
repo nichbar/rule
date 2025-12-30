@@ -2,7 +2,8 @@
 # Dev Library's Ruleset
 # This file contains domains for ai site.
 #########################################
-api.business.githubcopilot.com
-android.googleapis.com
-cerebras.ai
+payload:
+- '.cerebras.ai'
+- 'api.business.githubcopilot.com'
+- 'android.googleapis.com'
 ################## EOF ##################
